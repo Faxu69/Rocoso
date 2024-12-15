@@ -6944,3 +6944,4 @@ BCLib - The End  BiomeSource (7306a3a7)
 [15Dec2024 05:00:47.360] [Server thread/INFO] [neruina/]: Auto report config loaded for mod: "create_connected"
 [15Dec2024 05:00:50.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
 [15Dec2024 05:00:51.865] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at 991 ~ 1040 after 15 tries
+[15Dec2024 05:08:11.906] [Netty Epoll Server IO #2/WARN] [mixin/]: @ModifyConstant conflict. Skipping connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000, already redirected by packetfixer-common.mixins.json:PacketEncoderMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 9999
